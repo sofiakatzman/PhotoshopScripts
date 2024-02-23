@@ -1,1 +1,9 @@
 # PhotoshopScripts
+
+Use: Compilation of scripts created to assist digital designers in automating routine tasks. 
+
+- BannerMockup: Creates web page mockups for varying types of ecom assets. 
+
+TK: 
+- YTOFlyerMockup: Creates flyer thumbnails based on the first page of the pdf's provided. 
+- BannerTextLayout: Creates artboards based on varying banner specifications and user entered text and background colors. 
